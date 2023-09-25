@@ -20,12 +20,12 @@ Crea una descripción para cada elemento utilizando párrafos ``` (<p>). ```
 
 Además, puedes emplear las siguientes etiquetas para mejorar la estructura y estilo de tu contenido:
 
-- Usa < strong > para resaltar texto importante.
-- Utiliza < br > para insertar saltos de línea si es necesario.
-- Agrega < span > para aplicar estilos específicos a porciones de texto.
-- Emplea < i > para enfatizar o dar énfasis a palabras o frases.
-- Utiliza < u > para subrayar texto cuando sea necesario.
-- Considera el uso de < div > para crear secciones o contenedores para tu contenido, lo que puede facilitar la organización y el diseño de la página.
+- Usa ``` <strong> ``` para resaltar texto importante.
+- Utiliza ``` <br> ``` para insertar saltos de línea si es necesario.
+- Agrega ``` <span> ``` para aplicar estilos específicos a porciones de texto.
+- Emplea ``` <i> ``` para enfatizar o dar énfasis a palabras o frases.
+- Utiliza ``` <u> ``` para subrayar texto cuando sea necesario.
+- Considera el uso de ``` <div> ``` para crear secciones o contenedores para tu contenido, lo que puede facilitar la organización y el diseño de la página.
 
 ### Plantilla Inicial
 
