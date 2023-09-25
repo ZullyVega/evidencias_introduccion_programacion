@@ -15,7 +15,7 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 - Acerca
 - Contacto
 
-#### Index o página de Inicio
+#### Index o página de inicio
 
 ```
 
