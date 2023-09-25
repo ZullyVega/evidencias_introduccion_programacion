@@ -17,6 +17,8 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 
 #### Index o página de inicio
 
+```
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,10 +47,11 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 </body>
 
 </html>
-
+```
 
 #### Acerca
 
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,10 +92,11 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 </body>
 
 </html>
-
+```
 
 #### Contacto
 
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -135,3 +139,4 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 </body>
 
 </html>
+```

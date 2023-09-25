@@ -190,7 +190,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             camellos, espejismos de brillo metálico y la eterna promesa de un oasis. <a
                 href="https://www.traveler.es/naturaleza/galerias/los-desiertos-mas-espectaculares-del-planeta/738"
                 target="_blank">Más Información</a></p>
-        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Desierto" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen2.jpg?alt=media&token=18b7ad8f-7f76-4613-8cc4-7519e6feb4ac" alt="Desierto" width="600">
 
         <h3>Clima Frío</h3>
         <p>Hay algunos lugares repartidos por la tierra que están considerados como los <i>lugares más fríos del
@@ -372,7 +372,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             camellos, espejismos de brillo metálico y la eterna promesa de un oasis. <a
                 href="https://www.traveler.es/naturaleza/galerias/los-desiertos-mas-espectaculares-del-planeta/738"
                 target="_blank">Más Información</a></p>
-        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Desierto" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen2.jpg?alt=media&token=18b7ad8f-7f76-4613-8cc4-7519e6feb4ac" alt="Desierto" width="600">
 
         <h3>Clima Frío</h3>
         <p>Hay algunos lugares repartidos por la tierra que están considerados como los <i>lugares más fríos del
