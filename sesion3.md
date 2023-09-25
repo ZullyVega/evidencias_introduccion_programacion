@@ -182,7 +182,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
                 href="https://colombia.travel/es/blog/disfruta-tus-vacaciones-de-verano-en-destinos-de-sol-y-playa-en-colombia"
                 target="_blank">Más Información</a>
         </p>
-        <img src="Imagen1.jpg" alt="Playa" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Playa" width="600">
 
         <h3>Desiertos</h3>
         <p>Los <i>desiertos</i> son espectaculares: paisajes lunares, dunas de colores imposibles, caravanas de
@@ -190,7 +190,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             camellos, espejismos de brillo metálico y la eterna promesa de un oasis. <a
                 href="https://www.traveler.es/naturaleza/galerias/los-desiertos-mas-espectaculares-del-planeta/738"
                 target="_blank">Más Información</a></p>
-        <img src="Imagen2.jpg" alt="Desierto" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Desierto" width="600">
 
         <h3>Clima Frío</h3>
         <p>Hay algunos lugares repartidos por la tierra que están considerados como los <i>lugares más fríos del
@@ -199,7 +199,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             disfrutar de algunos de los paisajes más impresionantes que habrás visto en la vida? <a
                 href="https://insolitviatges.com/blog/post/los-8-pa-ses-m-s-fr-os-pero-m-s-bonitos-del-mundo"
                 target="_blank">Más Información</a></p>
-        <img src="Imagen3.jpg" alt="Invierno" width="600" height="800">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen3.jpg?alt=media&token=a394b6cf-b146-43a3-9704-c34d33f486af" alt="Invierno" width="600" height="800">
 
         <h3>Bosques</h3>
         <p>Adentrarse en la espesura de un <i>bosque</i> es regalar a nuestros sentidos una mezcla de colores, aromas y
@@ -209,7 +209,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             interrumpido por el crujir de las ramas, el viento, o el sonido de las especies que lo habitan. <a
                 href="https://viajes.nationalgeographic.com.es/a/bosques-mas-bellos-mundo_8559" target="_blank">Más
                 Información</a></p>
-        <img src="Imagen4.jpg" alt="Bosque" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen4.jpg?alt=media&token=77cf6db0-7121-40f3-a55f-8516d362bbd6" alt="Bosque" width="600">
 
 
     </section>
@@ -224,7 +224,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             href="https://topadventure.com/ecoturismo/Pueblos-Magicos-con-cascadas-impresionantes-20220703-0003.html"
             target="_blank">Más
             Información</a></p>
-        <video src="Video1.mp4" controls width="800"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Video1.mp4?alt=media&token=35f53a0a-809a-4fa5-95fa-1ac2e508192d" controls width="800"></video>
 
         <h3>Ciudades</h3>
         <p>Cada año, el ranking <i>“World's Best Cities”</i> nos ofrece una lista de <strong>Las Mejores Ciudades del
@@ -234,7 +234,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             href="https://elcomercio.pe/vamos/mundo/las-10-mejores-ciudades-del-mundo-para-viajar-segun-el-ranking-worlds-best-cities-lista-viajes-internacionales-noticia/"
             target="_blank">Más
             Información</a></p>
-        <video src="Video2.mp4" controls width="800"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Video2.mp4?alt=media&token=4902e262-f401-42d8-a60f-d2bbb08436ea" controls width="800"></video>
 
 
     </section>
@@ -246,10 +246,10 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             <br>
             <span style="color: rgb(78, 230, 192)">Relaxing Music</span>
         </p>
-        <audio src="Audio1.mp3" controls></audio>
-        <audio src="Audio3.mp3" controls></audio>
-        <audio src="Audio2.mp3" controls></audio>
-        <audio src="Audio4.mp3" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio1.mp3?alt=media&token=5a236dc1-1d87-4169-b6ac-2c30833761cd" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio3.mp3?alt=media&token=6a0d0e10-8c88-4e4b-afd4-b47cf9d6043d" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio2.mp3?alt=media&token=f73fad29-e833-4373-ab08-98fe353f4eb5" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio4.mp3?alt=media&token=ece0c1d4-87cc-4847-9497-c7f5f0b20580" controls></audio>
 
     </section>
 
@@ -364,7 +364,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
                 href="https://colombia.travel/es/blog/disfruta-tus-vacaciones-de-verano-en-destinos-de-sol-y-playa-en-colombia"
                 target="_blank">Más Información</a>
         </p>
-        <img src="Imagen1.jpg" alt="Playa" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Playa" width="600">
 
         <h3>Desiertos</h3>
         <p>Los <i>desiertos</i> son espectaculares: paisajes lunares, dunas de colores imposibles, caravanas de
@@ -372,7 +372,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             camellos, espejismos de brillo metálico y la eterna promesa de un oasis. <a
                 href="https://www.traveler.es/naturaleza/galerias/los-desiertos-mas-espectaculares-del-planeta/738"
                 target="_blank">Más Información</a></p>
-        <img src="Imagen2.jpg" alt="Desierto" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen1.jpg?alt=media&token=833ae1d4-07d1-46cd-bb02-c49252b54216" alt="Desierto" width="600">
 
         <h3>Clima Frío</h3>
         <p>Hay algunos lugares repartidos por la tierra que están considerados como los <i>lugares más fríos del
@@ -381,7 +381,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             disfrutar de algunos de los paisajes más impresionantes que habrás visto en la vida? <a
                 href="https://insolitviatges.com/blog/post/los-8-pa-ses-m-s-fr-os-pero-m-s-bonitos-del-mundo"
                 target="_blank">Más Información</a></p>
-        <img src="Imagen3.jpg" alt="Invierno" width="600" height="800">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen3.jpg?alt=media&token=a394b6cf-b146-43a3-9704-c34d33f486af" alt="Invierno" width="600" height="800">
 
         <h3>Bosques</h3>
         <p>Adentrarse en la espesura de un <i>bosque</i> es regalar a nuestros sentidos una mezcla de colores, aromas y
@@ -391,7 +391,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             interrumpido por el crujir de las ramas, el viento, o el sonido de las especies que lo habitan. <a
                 href="https://viajes.nationalgeographic.com.es/a/bosques-mas-bellos-mundo_8559" target="_blank">Más
                 Información</a></p>
-        <img src="Imagen4.jpg" alt="Bosque" width="600">
+        <img src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Imagen4.jpg?alt=media&token=77cf6db0-7121-40f3-a55f-8516d362bbd6" alt="Bosque" width="600">
 
 
     </section>
@@ -406,7 +406,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             href="https://topadventure.com/ecoturismo/Pueblos-Magicos-con-cascadas-impresionantes-20220703-0003.html"
             target="_blank">Más
             Información</a></p>
-        <video src="Video1.mp4" controls width="800"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Video1.mp4?alt=media&token=35f53a0a-809a-4fa5-95fa-1ac2e508192d" controls width="800"></video>
 
         <h3>Ciudades</h3>
         <p>Cada año, el ranking <i>“World's Best Cities”</i> nos ofrece una lista de <strong>Las Mejores Ciudades del
@@ -416,7 +416,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             href="https://elcomercio.pe/vamos/mundo/las-10-mejores-ciudades-del-mundo-para-viajar-segun-el-ranking-worlds-best-cities-lista-viajes-internacionales-noticia/"
             target="_blank">Más
             Información</a></p>
-        <video src="Video2.mp4" controls width="800"></video>
+        <video src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Video2.mp4?alt=media&token=4902e262-f401-42d8-a60f-d2bbb08436ea" controls width="800"></video>
 
 
     </section>
@@ -428,10 +428,10 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
             <br>
             <span style="color: rgb(78, 230, 192)">Relaxing Music</span>
         </p>
-        <audio src="Audio1.mp3" controls></audio>
-        <audio src="Audio3.mp3" controls></audio>
-        <audio src="Audio2.mp3" controls></audio>
-        <audio src="Audio4.mp3" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio1.mp3?alt=media&token=5a236dc1-1d87-4169-b6ac-2c30833761cd" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio3.mp3?alt=media&token=6a0d0e10-8c88-4e4b-afd4-b47cf9d6043d" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio2.mp3?alt=media&token=f73fad29-e833-4373-ab08-98fe353f4eb5" controls></audio>
+        <audio src="https://firebasestorage.googleapis.com/v0/b/fotos-f682a.appspot.com/o/Audio4.mp3?alt=media&token=ece0c1d4-87cc-4847-9497-c7f5f0b20580" controls></audio>
 
     </section>
 
