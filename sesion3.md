@@ -14,9 +14,9 @@ Completa el siguiente código HTML añadiendo el contenido multimedia correspond
 - 4 Audios
 - 2 Inline Frame
 
-Utiliza encabezados para títulos en cada elemento  ``` (<h1>...<h6>).  ```
+Utiliza encabezados para títulos en cada elemento  ``` <h1>...<h6>  ```
 
-Crea una descripción para cada elemento utilizando párrafos ``` (<p>). ```
+Crea una descripción para cada elemento utilizando párrafos ``` <p> ```
 
 Además, puedes emplear las siguientes etiquetas para mejorar la estructura y estilo de tu contenido:
 
