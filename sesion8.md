@@ -39,6 +39,10 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 - Color gris a los párrafos dentro de un ``` <div> ```
 - Centrar el contenido de la sección ``` <section> ```
 
+### Link
+
+https://zullyvega.github.io/Actividad_8/
+
 ### Mi Plantilla
 
 ```
@@ -148,3 +152,5 @@ section {
     text-align: center;
 }
 ```
+
+
