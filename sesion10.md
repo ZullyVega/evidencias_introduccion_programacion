@@ -15,7 +15,9 @@ Aplicar las propiedades de posicionamiento de CSS para crear diferentes efectos 
 Instrucciones:
 
 1- Crea un nuevo archivo HTML y CSS.
+
 2- En el archivo HTML, crea una estructura básica de página web con dos elementos div.
+
 3- En el archivo CSS, define las propiedades de visualización y posicionamiento de los elementos div.
 
 ```
@@ -66,8 +68,11 @@ Al darle un valor numérico mayor, el elemento se superpondrá sobre los element
 - ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
 
 •	Block: El elemento se muestra como una caja de bloque, que ocupa toda la anchura de su contenedor y se muestra en una nueva línea.
+
 •	Inline: El elemento se muestra como una caja de línea, que se muestra en la misma línea que el texto circundante.
+
 •	Inline-block: El elemento se muestra como una caja de línea, pero puede tener una anchura y una altura definidas.
+
 •	None: El elemento no se muestra en la página web.
 
 
